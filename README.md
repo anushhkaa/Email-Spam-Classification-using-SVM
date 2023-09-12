@@ -1,1 +1,3 @@
 # Email-Spam-Classification-using-SVM
+
+This project focuses on the application of SVM for email classification, exploring the potential of this approach to revolutionize email management. Through a combination of text preprocessing, feature extraction, and model training, the project aims to develop a robust email classification system capable of distinguishing between different email categories, such as spam, promotions, social, and primary inbox messages. The ultimate goal is to provide users with a more organized and efficient email experience, reducing the time and effort required to sift through their inboxes
